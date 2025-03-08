@@ -28,7 +28,7 @@ git clone https://github.com/nono2224/deserialize-rrs_message-cs.git
 ダウンロードしたリポジトリへ移動を行います
 
 ```sh
-cd deserialize-rrs_messagecs
+cd deserialize-rrs_message-cs
 ```
 
 ### 3. 依存関係の復元
